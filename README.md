@@ -1,7 +1,10 @@
 ## Hi there 👋
 
+
 <h1 align="center">Hi 👋, I'm Sneha Chakraborty</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehachakraborty-007&label=Profile%20views&color=0e75b6&style=plastic" alt="snehachakraborty-007" /> </p>
 
@@ -14,6 +17,9 @@
 - 📫 How to reach me **snehac345@gmail.com**
 
 - ⚡ Fun fact **I think I am humorous**
+
+![zoro gif](https://github.com/user-attachments/assets/9da0d2cd-0cdb-45a7-a956-a31649c45218)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,5 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehachakraborty-007&show_icons=true&theme=dark&title_color=e1ee2b&text_color=13e0fb&locale=en&layout=compact" alt="snehachakraborty-007" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehachakraborty-007&show_icons=true&theme=dark&title_color=e0e316&text_color=0eb7e1&hide_border=true&locale=en" alt="snehachakraborty-007" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehachakraborty-007&show_icons=true&theme=dark&title_color=e0e316&text_color=0eb7e1&locale=en" alt="snehachakraborty-007" /></p>
 
+![zoro gif1](https://github.com/user-attachments/assets/206265b8-984b-4c85-9c80-91be4e6aa12a)
